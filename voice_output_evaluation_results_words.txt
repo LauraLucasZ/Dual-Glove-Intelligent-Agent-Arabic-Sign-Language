@@ -1,0 +1,12 @@
+Voice Output Evaluation Summary
+================================
+Total gesture labels: 16
+Existing audio files: 16
+Missing audio files: 0
+Successfully loaded audio files: 16
+Failed audio files: 0
+Audio coverage percentage: 100.00%
+Average loading time (seconds): 0.0714
+Final status: Passed
+
+Results saved to: C:\Users\sondo\Desktop\Voice Model Words\voice_output_evaluation_results.txt

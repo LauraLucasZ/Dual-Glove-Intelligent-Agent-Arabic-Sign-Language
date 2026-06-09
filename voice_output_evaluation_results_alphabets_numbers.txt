@@ -1,0 +1,13 @@
+Voice Output Evaluation Results
+===============================
+Project directory: C:\Users\sondo\Desktop\Voice Model Stuff
+Mapping source: full_voice_prediction_pipeline.ipynb (approved chosen MP3s)
+
+Total gesture labels: 39
+Existing audio files: 39
+Missing audio files: 0
+Successfully loaded audio files: 39
+Failed audio files: 0
+Audio coverage percentage: 100.0%
+Average loading time (seconds): 0.0716
+Final status: Passed
