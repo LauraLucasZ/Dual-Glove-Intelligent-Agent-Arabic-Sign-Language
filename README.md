@@ -134,7 +134,7 @@ But XGBoost achieved the best overall performance on the words dataset with 97.9
 
 ---
 
-##👨‍💻 Team Members
+## 👨‍💻 Team Members
 - [Laura Lucas](https://github.com/LauraLucasZ)
 
 - [Mariam Elbishbeashy](https://github.com/Mariam-Elbishbeashy)
