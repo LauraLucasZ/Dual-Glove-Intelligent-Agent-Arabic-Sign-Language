@@ -135,15 +135,23 @@ But XGBoost achieved the best overall performance on the words dataset with 97.9
 ---
 
 ## 👨‍💻 Team Members
+
 - [Laura Lucas](https://github.com/LauraLucasZ)
+  - Hardware design, integration, and implementation of the smart glove system
 
 - [Mariam Elbishbeashy](https://github.com/Mariam-Elbishbeashy)
+  - Hardware design, integration, and implementation of the smart glove system
 
 - [Aya Hisham](https://github.com/ayahisha)
-
-- [Sondos Mohamed](https://github.com/SondosGafar)
+  - Dataset collection, preprocessing, annotation, and validation
 
 - [Mohamed Elrawy](https://github.com/MohamedIhabIbrahim22)
+  - Machine learning model development, training, evaluation, and optimization
+
+- [Sondos Mohamed](https://github.com/SondosGafar)
+  - Text-to-Speech (TTS) integration and speech output development
+  
+
 ---
 
 ## License
