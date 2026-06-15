@@ -1,6 +1,8 @@
 # 🤟 Dual-Glove: Intelligent Agent for Arabic Sign Language Recognition
 
-![Dual-Glove System](images/cover.jpg)
+<p>
+  <img src="images/2_gloves.jpg" alt="Dual-Glove System" width="500"/>
+</p>
 
 ## Overview
 
@@ -29,7 +31,9 @@ The Dual-Glove system addresses these limitations through wearable sensor-based 
 
 ## Hardware Components
 
-![Hardware Components](images/hardware_components.png)
+<p>
+  <img src="images/hardware_components.png" alt="Dual-Glove System" width="500"/>
+</p>
 
 The system consists of:
 
@@ -44,7 +48,10 @@ The system consists of:
 
 ## Hardware Architecture
 
-![Hardware Architecture](images/hardware_architecture.jpeg)
+<p>
+  <img src="images/hardware_architecture.jpeg" alt="Dual-Glove System" width="400"/>
+</p>
+
 
 Each glove contains:
 
