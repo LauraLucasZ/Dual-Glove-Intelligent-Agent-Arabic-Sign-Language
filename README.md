@@ -134,14 +134,16 @@ But XGBoost achieved the best overall performance on the words dataset with 97.9
 
 ---
 
-## Team Members
+##👨‍💻 Team Members
+- [Laura Lucas](https://github.com/LauraLucasZ)
 
-- Laura Lucas
-- Mariam Elbishbeashy
-- Ahmed Hesham
-- Ahmed Hisham
-- Mohamed Elrawy
+- [Mariam Elbishbeashy](https://github.com/Mariam-Elbishbeashy)
 
+- [Aya Hisham](https://github.com/ayahisha)
+
+- [Sondos Mohamed](https://github.com/SondosGafar)
+
+- [Mohamed Elrawy](https://github.com/MohamedIhabIbrahim22)
 ---
 
 ## License
